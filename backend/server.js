@@ -21,6 +21,7 @@ connectCloudinary();
 // ✅ Allow specific frontend domains
 const allowedOrigins = [
     "https://forever-frontend-orcin.vercel.app",
+    "https://forever-admin-ten-gamma.vercel.app",
 ];
 
 app.use(cors({
