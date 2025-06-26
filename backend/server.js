@@ -20,6 +20,7 @@ connectCloudinary();
 
 // ✅ Allow specific frontend domains
 const allowedOrigins = [
+    "https://forever-frontend-mocha-five.vercel.app",
   "https://forever-frontend-one-tau.vercel.app",
   "https://forever-admin-murex.vercel.app"
 ];
